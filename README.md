@@ -2,17 +2,12 @@
 **lexsaints/lexsaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # Hi there 👋
-<img align="right" alt="GIF" src="https://github.com/lexsaints/lexsaints/blob/master/snail_linux.jpg" />
+### I'm zfunnily
+- 🌱 游戏后端开发，擅长使用kbengine/skynet/golang。
+- 🌱 热爱游戏
+- 🌱 Shader业余爱好者，师从《Unity Shader入门精要》——冯乐乐。
+- 🌱 游戏前端业余爱好者，擅长使用编辑器UE/Unity。
+- 🌱 喜欢鼓捣一些软件服务器的部署，比如最近大火的ChatGPT。我部署了一个LangChain-chatchat
 
-### I'm lex
-- 🌱 Linux开发者 所有发行版本--十年经验 
-- 🌱 Windows域控Exchange架构师--千人公司运维 
-- 🌱 Java开发者 世界之大 Java最好 哈哈哈 
-- 🌱 Python爱好者--爬虫 爆破 
-- 🌱 虚拟机爱好者--Win/Unix系统 
-- 🌱 服务器搭建者--各种数据库 web等等服务器 
-- 🌱 健身爱好者--卧推90kg硬拉120kg深蹲100kg 
-- 🌱 读书爱好者--中国史欧洲史宗教史 微信公众号：蜗牛linux
-
-- 💬 技术博客地址：https://lexsaints.blog.csdn.net/
-- 💬 右边是 我的个人微信公众号 欢迎关注。。。
+- 💬 技术博客地址：https://zfunnily.github.io/
+- 联系我: 582132116@qq.com
