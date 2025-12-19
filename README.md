@@ -23,4 +23,6 @@
 - ✍️ 技术博客：https://zfunnily.github.io/
 
 > 持续记录游戏服务器架构、系统设计与踩坑经验
-> People Die, but Long Live GitHub
+
+📌 **People Die, but Long Live GitHub**
+
