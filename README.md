@@ -1,12 +1,25 @@
-<!--
-**lexsaints/lexsaints** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-# Hi there 👋
-### I'm zfunnily
-- 🌱 游戏后端开发，擅长使用kbengine/skynet/golang。
-- 🌱 热爱游戏
-- 🌱 Shader业余爱好者，师从《Unity Shader入门精要》——冯乐乐。
-- 🌱 游戏前端业余爱好者，擅长使用编辑器UE/Unity。
-- 🌱 喜欢鼓捣一些软件服务器的部署，比如最近大火的ChatGPT。我部署了一个LangChain-chatchat, 使用chatglb-6b模型+知识库的方式本地部署一个属于自己的AI
+# Hi 👋 I'm zfunnily
+生活工作在杭州。 喜爱游戏，编程和有趣的东西。
 
-- 💬 技术博客地址：https://zfunnily.github.io/
+🎮 **Game Backend Developer**
+
+- 🌱 专注游戏服务器开发  
+  熟悉 **kbengine / skynet / Golang**，关注高并发、状态同步、匹配与战斗系统设计
+
+- 🌱 Shader 业余爱好者  
+  学习自《Unity Shader 入门精要》（冯乐乐），对渲染与表现保持长期兴趣
+
+- 🌱 游戏前端业余玩家  
+  熟悉 **Unity / UE 编辑器**，能从客户端视角反推服务器设计
+
+- 🌱 AI / 工具折腾爱好者  
+  本地部署过 **LangChain-ChatChat**  
+  使用 **ChatGLM-6B + 知识库** 构建个人 AI 助手
+
+---
+
+📌 **Blog & Writing**
+
+- ✍️ 技术博客：https://zfunnily.github.io/
+
+> 持续记录游戏服务器架构、系统设计与踩坑经验
