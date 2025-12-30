@@ -1,5 +1,5 @@
 # Hi 👋 I'm zfunnily
-生活工作在杭州。 喜爱游戏，编程和有趣的东西。
+生活工作在杭州。 喜爱游戏、编程、羽毛球和有趣的东西。
 
 🎮 **Game Backend Developer**
 
